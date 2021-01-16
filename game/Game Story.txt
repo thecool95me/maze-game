@@ -1,0 +1,15 @@
+characters : 
+
+1.player
+2.mobs,mobster.
+
+Story : 
+
+the player is lost in a maze with a torch,and ten hearts,the goal of the player is to find the exit to the maze and survive against the mobs that he will find through-out the maze,there will be fruits placed randomly on the map to pick up the fruit he has to press the hotkey (F) on which the fruit will be picked up and eaten automaticaly,there are 5 unique levels
+
+mob attacking system :
+mobs are attracted to the light thats with the player 
+if the mob touches the player once the player loses one heart and each mob has a cooldown of 5 seconds until it can attack again 
+
+player attacking system :
+player can simply attack the mobs by clicking on the mobs, with each click the mob loses one heart   

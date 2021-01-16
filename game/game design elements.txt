@@ -1,0 +1,14 @@
+Game Design Elements
+
+1.Balance
+2.Story
+3.Detail
+4.Character
+  (A) playing characters
+  (B) non-playing characters
+5.Adaptivity  
+6.Chance vs Skill
+7.Feedback
+8.Goals
+9.
+
